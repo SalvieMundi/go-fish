@@ -1,7 +1,7 @@
 {
   "itemGroup.gofish.group": "Go Fish",
 
-  "gofish.crate_tooltip": "Shift-click to open.",
+  "gofish.crate_tooltip": "Shift-click while holding to open",
   "enchantment.gofish.deepfry": "Deepfry",
 
   "item.gofish.spikerfish": "Spikerfish",
@@ -115,7 +115,7 @@
   "advancements.fishing.astral_crate.title": "A Crate from Outer Space",
   "advancements.fishing.astral_crate.description": "Fish up an Astral Crate while fishing under a full moon.",
   "advancements.fishing.wooden_crate.title": "Simple Crates",
-  "advancements.fishing.wooden_crate.description": "Obtain a Wooden Crate while fishing. Shift-click while looking at air to open it!",
+  "advancements.fishing.wooden_crate.description": "Obtain a Wooden Crate while fishing. Shift-click while holding to open it!",
   "advancements.fishing.iron_crate.title": "Crate Upgrades",
   "advancements.fishing.iron_crate.description": "Obtain an Iron Crate while fishing.",
   "advancements.fishing.golden_crate.title": "Fancy Crates",
