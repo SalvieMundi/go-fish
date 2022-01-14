@@ -67,11 +67,6 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Salve Mundi/.gradle/caches/modules-2/files-2.1/net.fabricmc/yarn/1.17.1+build.64/86ad601ac6302413836c33446a3d6eb6d7f5c1e4/yarn-1.17.1+build.64-constants.jar" sourcepath="C:/Users/Salve Mundi/.gradle/caches/modules-2/files-2.1/net.fabricmc/yarn/1.17.1+build.64/69ad0cc66413be37bceeb45eed68e48a203474e9/yarn-1.17.1+build.64-sources.jar">
-		<attributes>
-			<attribute name="gradle_used_by_scope" value=""/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/Salve Mundi/.gradle/caches/modules-2/files-2.1/com.mojang/blocklist/1.0.5/9da540f21c9a8d5ed7c029e1f88d1a6dabb0d6ad/blocklist-1.0.5.jar" sourcepath="C:/Users/Salve Mundi/.gradle/caches/modules-2/files-2.1/com.mojang/blocklist/1.0.5/ad6b9fd6a4a2afa89808f06e140bb8d54fd465d1/blocklist-1.0.5-sources.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
@@ -550,6 +545,11 @@
 	<classpathentry kind="lib" path="C:/Users/Salve Mundi/.gradle/caches/fabric-loom/yarn-1.17.1+build.64-v2-final.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Salve Mundi/.gradle/caches/modules-2/files-2.1/net.fabricmc/yarn/1.17.1+build.61/75ccba0626a520fb9dc2aacda63d147b9cbcd0c6/yarn-1.17.1+build.61-constants.jar" sourcepath="C:/Users/Salve Mundi/.gradle/caches/modules-2/files-2.1/net.fabricmc/yarn/1.17.1+build.61/302355e9e47cf674c0aada80b6149c35e76af43a/yarn-1.17.1+build.61-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="output" path="bin/default"/>
